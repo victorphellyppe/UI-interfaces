@@ -1,0 +1,7 @@
+{
+  "name": "customTabs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
